@@ -2,6 +2,12 @@
 
 A secure, high-performance microservice designed to power the crop advisory and gamification flow of the **SmartU WhatsApp Bot**. This service allows farmers to seamlessly submit crop health queries (with images) via WhatsApp, uploads crop assets to secure cloud storage, registers advisory tickets, and awards engagement points to farmers.
 
+
+> [!IMPORTANT]
+> **FOR REVIEW & EVALUATION ONLY**  
+> This codebase is a submission for the AgriTech Hackathon review process. To respect privacy and prevent exposure of critical internal architecture, this codebase uses minimized Sequelize schemas, dummy configuration guidelines, and lacks automatic database synchronization. It is not intended for direct standalone production deployments.
+
+
 ---
 
 ## 🏗️ Architecture & Request Flow
