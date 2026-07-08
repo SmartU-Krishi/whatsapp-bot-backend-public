@@ -1,4 +1,4 @@
-# SmartU WhatsApp Bot Backend — AgriTech Hackathon Edition
+# SmartU WhatsApp Bot Backend
 
 A secure, high-performance microservice designed to power the crop advisory and gamification flow of the **SmartU WhatsApp Bot**. This service allows farmers to seamlessly submit crop health queries (with images) via WhatsApp, uploads crop assets to secure cloud storage, registers advisory tickets, and awards engagement points to farmers.
 
